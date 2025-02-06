@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **Linux,Android**
-- 📫 How to reach me [Telegram Account](https://t.me/AMHOAZ/) | [Instagram Page](https://www.instagram.com/amirhossein____azimi)
+- 📫 How to reach me [Telegram Account](https://t.me/AMHOAZ/) | [Instagram Page](https://www.instagram.com/amirhossein____azimi) | [LinkedIn](https://www.linkedin.com/in/amirhossein-azimi-55521b209/)
 <br>
 <!-- - 🔭 I’m currently working on -->
 <!-- - 👯 I’m looking to collaborate on ... -->

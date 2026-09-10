@@ -5,7 +5,7 @@
 <br>
 -->
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Django
 - 💬 Ask me about **Linux,Android**
 - 📫 How to reach me [Telegram Account](https://t.me/AMHOAZ/) | [Instagram Page](https://www.instagram.com/amirhossein____azimi) | [LinkedIn](https://www.linkedin.com/in/amirhossein-azimi-55521b209/)
 
